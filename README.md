@@ -1,2 +1,4 @@
 # BasicWorkWithDB
-Basic SQL Commands with ADO.NET
+Doing Some Basic SQL Commands
+like Instert, Update , Delete , Select , Where
+Manage Database using ADO.NET
